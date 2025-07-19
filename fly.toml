@@ -1,4 +1,4 @@
-app = "rdrt"
+app = "fly"
 
 [build]
   builder = "Dockerfile"
