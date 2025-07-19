@@ -1,4 +1,4 @@
-app = "fly"
+app = "rdrt"
 
 [[services]]
   internal_port = 80
